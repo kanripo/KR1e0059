@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋諸國統紀
-#+DATE: 2015-09-23 09:39:56
-#+PROPERTY: JUAN 6
+#+DATE: 2015-08-24 22:14:54.474205
+#+PROPERTY: ID KR1e0059
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷六
 <pb:KR1e0059_WYG_006-1a>¶
 欽定四庫全書¶
 　春秋諸國統紀卷六¶
@@ -254,4 +256,3 @@
 　¶
 　¶
 　春秋諸國統紀卷六¶
-
